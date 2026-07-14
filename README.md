@@ -1,3 +1,3 @@
 # MySql_2
 SQL Queries
-# Agreegate Functions
+# Agregate Functions
